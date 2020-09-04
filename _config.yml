@@ -1,0 +1,29 @@
+# Site settings
+title: Society for Artificial Intelligence and Statistics
+author:
+  email: 
+description: > # this means to ignore newlines until "baseurl:"
+  This is the website of the AISTATS Society
+baseurl: "/" # the subpath of your site, e.g. /blog/
+#twitter_username: aistat
+github_username:  aistats
+
+author:
+  name: AISTATS
+comments: false
+plugins:
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-remote-theme
+remote_theme: lawrennd/proceedings
+style: aistats
+
+ghub:
+  edit: true
+  repository: aistats.github.io2020
+
+# Build settings
+markdown: kramdown
+
+# change encoding for the generated output files to utf-8
+encoding: utf-8
