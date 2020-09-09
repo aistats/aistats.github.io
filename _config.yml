@@ -20,7 +20,7 @@ style: aistats
 
 ghub:
   edit: true
-  repository: aistats.github.io2020
+  repository: aistats.github.io
 
 # Build settings
 markdown: kramdown
