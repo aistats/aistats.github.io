@@ -6,7 +6,7 @@ If As well as providing information about the society and past meetings, the pag
 
 **These steps need to be done by someone with admin access to the aistats github organization**
 
-1. Create the new repo in github by going to <https://github.com/organizations/aistats/repositories/new>, use the name coding `aistatsXXXX` where `XXXX` is the year of the archived conference. 
+1. Create the new repo in github by going to <https://github.com/organizations/aistats/repositories/new>, use the name coding `aistatsXXXX` where `XXXX` is the year of the conference. 
 
 2. Select "Create from Template" using stub as the template
 
